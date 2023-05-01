@@ -3,4 +3,5 @@
 int main()
 {
 	printf("Hellom World");
+	return 0;
 }	
