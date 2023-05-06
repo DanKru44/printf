@@ -12,4 +12,4 @@ Der verwendete Editor zum schreiben der Programme ist vim.
 
 ## Kompilieren
 Das Programme können durch Aufruf eines beliebigen compilers gebaut werden. 
-Beispiel: 'clang printf.c -o printf.elf'
+Beispiel: `clang printf.c -o printf.elf`
