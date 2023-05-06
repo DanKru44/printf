@@ -1,4 +1,5 @@
 # PP6
+Praktikumsaufgabe in der mehrere einfache Programme geschrieben und auf Github hochgeladen wurden. 
 
 ## Programme
 Das printf Programm soll ein Ascii-Art ausgegeben. Diese ist eine Folge von Zeichen, die ein Bild dartsellen soll.
