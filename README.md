@@ -8,5 +8,5 @@ Das format Programm soll eine Ganzezahl, eine Gleitkommazahl, ein character und 
 Der verwendete Editor zum schreiben der printf.c ist vim.
 
 ## Kompilieren
-Das Programme können durch Aufruf eines beliebigen compilers gebaut werden
+Das Programme können durch Aufruf eines beliebigen compilers gebaut werden. 
 Beispiel: 'clang printf.c -o printf.elf'
