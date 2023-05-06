@@ -8,7 +8,7 @@ Das printf Programm soll ein Ascii-Art ausgegeben. Diese ist eine Folge von Zeic
 Das format Programm soll eine Ganzezahl, eine Gleitkommazahl, ein character und ein String ausgeben.
 
 ## Editor
-Der verwendete Editor zum schreiben der printf.c ist vim.
+Der verwendete Editor zum schreiben der Programme ist vim.
 
 ## Kompilieren
 Das Programme können durch Aufruf eines beliebigen compilers gebaut werden. 
