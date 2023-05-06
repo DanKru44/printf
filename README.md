@@ -7,6 +7,8 @@ Das printf Programm soll ein Ascii-Art ausgegeben. Diese ist eine Folge von Zeic
 
 Das format Programm soll eine Ganzezahl, eine Gleitkommazahl, ein character und ein String ausgeben.
 
+Das ansi_color Programm solle ein Ascii-Art ausgeben und dieses farblich hinterlegen.
+
 ## Editor
 Der verwendete Editor zum schreiben der Programme ist vim.
 
