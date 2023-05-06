@@ -1,4 +1,6 @@
-# Programme
+# PP6
+
+## Programme
 Das printf Programm soll ein Ascii-Art ausgegeben. Diese ist eine Folge von Zeichen, die ein Bild dartsellen soll.
 
 
